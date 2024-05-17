@@ -1,4 +1,4 @@
-# PyLadies Dublin Mar In-Person Meetup @ LinkedIn
+# PyLadies Dublin Mar In-Person Meetup @ DIGIT Game Studios (Scopely)
 
 * 🗓 When: Tuesday, Mar 19, 2024
 * 📍 Where: 4 Prince's Street South, City Quay · Dublin 2, ([map](https://maps.app.goo.gl/Aq33NZ9nP5VVk64g8))

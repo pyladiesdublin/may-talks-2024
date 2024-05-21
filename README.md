@@ -7,7 +7,7 @@
 
   
 # 📢 Announcements
-Coming soon.
+https://docs.google.com/presentation/d/e/2PACX-1vR0M-RX_ovSwsHlNjMZdTtknhO8LKTBfeSLSl2VBqjSy8N71at5gA88E1yIGu3aOze2paXLm97w5iuB/pub?start=false&loop=false&delayms=3000
 
 # Python Study Session
 Going through Fluent Python: https://www.fluentpython.com/
@@ -17,7 +17,7 @@ Going through Fluent Python: https://www.fluentpython.com/
 * Asking for help
   
 # 💟 Thanks 
-* DIGIT Game Studios (Scopely) for hosting & catering
+* DIGIT Game Studios (Scopely) for hosting & catering AND Andressa for organising it all for us.
     * [https://careers.linkedin.com/Locations/Dublin](https://www.scopely.com/en/join-us)
 
 ### Regular partners

@@ -2,7 +2,7 @@
 
 * 🗓 When: Tuesday, Mar 19, 2024
 * 📍 Where: 4 Prince's Street South, City Quay · Dublin 2, ([map](https://maps.app.goo.gl/Aq33NZ9nP5VVk64g8))
-* 🎞 Talk Video: Coming soon
+* 🎞 Talk Video: N/A
 * ℹ️ Event page: https://www.meetup.com/pyladiesdublin/events/300612627/
 
   

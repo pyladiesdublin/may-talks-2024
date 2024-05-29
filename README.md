@@ -18,7 +18,7 @@ Going through Fluent Python: https://www.fluentpython.com/
   
 # 💟 Thanks 
 * DIGIT Game Studios (Scopely) for hosting & catering AND Andressa for organising it all for us.
-    * [https://www.scopely.com/en/join-u](https://www.scopely.com/en/join-us)
+    * [https://www.scopely.com/en/join-us](https://www.scopely.com/en/join-us)
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
